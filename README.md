@@ -1,6 +1,6 @@
-# Customized-Virtual-FIle-System
+# Virtual_File_System
 
-- Project Name : Customized Virtual FIle System
+- Project Name : Virtual FIle System
 - Technology Used: C Programming 
 - User Interface Used: Command line Interface (CUI)
 - Platform Required : Windows NT or Linux Distribution
